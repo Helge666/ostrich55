@@ -1,5 +1,10 @@
 # Ostrich 55 (O-55)
 
+> **Ostrich 55 has moved** to the monorepo **[Ostrich != Emu](https://github.com/Helge666/ostrich-not-emu)**, where it lives
+> with its siblings: [`instruments/ostrich-55`](https://github.com/Helge666/ostrich-not-emu/tree/main/instruments/ostrich-55).
+> New versions and downloads are published there. This repository is archived and
+> stays as it is; its releases remain available.
+
 An emulation of the **Roland SC-55 Sound Canvas** (1991) as a VST3/CLAP plugin and a
 standalone program. A non-commercial fan project, the sister of
 [Ostrich 220](https://github.com/Helge666/ostrich220).
